@@ -1,6 +1,6 @@
 ﻿# Tensorflow-based Neuron Soma Segmentation
 ## The Project
-This project allows for neuronal soma segmentation in fluorescence microscopy imaging datasets with the use for a parametrized family of deeplearning-based models based on the original *U-Net* model by Ronneberger et al. with some additional features such as *residual links* and tile-based frame reconstruction.
+This project allows neuronal soma segmentation in fluorescence microscopy imaging datasets with the use of a parametrized version of the U-Net segmentation model with additional features such as *residual links* and tile-based frame reconstruction.
 
 **keywords**: neuron segmentation, UNET, residual links, tiled inference, fluorescence imaging
 
