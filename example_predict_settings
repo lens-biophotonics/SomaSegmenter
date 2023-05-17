@@ -1,0 +1,7 @@
+-i path_to_test_frames.tif
+-o output_path
+-m path_to/model.hdf5
+-g path_to/test_masks.tif
+-b 50
+-t path_to/tmp
+--descriptorpath output/descr/path

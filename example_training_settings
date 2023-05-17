@@ -1,0 +1,5 @@
+-d path_to/dataset
+-o output/path
+-e 100
+-b 10
+--descriptorpath descriptor/output/path
